@@ -1,2 +1,2 @@
 # data
-File ini berisi Kumpulan data untuk portofolio
+Repository ini berisi Kumpulan data untuk portofolio
